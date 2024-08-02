@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700747231 source:c:\users\durma\videos\c\cod bloks\lab\week.8\week.8.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
